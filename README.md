@@ -1,1 +1,1 @@
-# furry-engine
+# Common neural network implementation
